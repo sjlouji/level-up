@@ -39,11 +39,18 @@ GCADE is a polished, modern hub for classic web games, rebuilt from the ground u
 
 | Game             | Status         | Description                                    |
 | ---------------- | -------------- | ---------------------------------------------- |
+| **Typing Master** | ✅ Available   | Adaptive typing practice that focuses on your weak keys and combinations. |
 | **2048**         | ✅ Available   | Join the numbers to get the 2048 tile!         |
 | **Pixel Dino Run** | ✅ Available   | Jump over obstacles and run as far as you can!   |
 | **Tic Tac Toe**    | ✅ Available   | Classic Xs and Os. Can you get three in a row? |
 | **Block Fall**     | ✅ Available   | Classic falling block puzzle. Clear lines to score! |
 | **Stack Tower**    | ✅ Available   | Tap to place blocks and build the tallest tower! |
+| **Minesweeper**   | ✅ Available   | Clear the board without hitting any mines. A true classic! |
+| **Snake**         | ✅ Available   | Eat the food, grow your snake, and avoid the walls! |
+| **Connect Four**  | ✅ Available   | Drop your discs and be the first to get four in a row! |
+| **Flappy Bird**   | ✅ Available   | Tap to flap your way through the pipes. How far can you get? |
+| **Sudoku**        | ✅ Available   | A classic logic puzzle. Fill the grid with numbers 1-9. |
+| **Memory Match**  | 🚧 Coming Soon | Flip cards and find all the matching pairs. Test your recall! |
 | **Stickman Hook**  | 🚧 Coming Soon | Swing through levels with your grappling hook! |
 | **Bouncing Ball**  | 🚧 Coming Soon | Navigate your ball through tricky obstacles.   |
 
