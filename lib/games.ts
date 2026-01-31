@@ -1,7 +1,7 @@
 
 import React from 'react';
 
-export type GameId = '2048' | 'dino' | 'stickman' | 'bouncing-ball' | 'tic-tac-toe' | 'block-fall' | 'stack' | 'minesweeper' | 'snake' | 'connect-four' | 'flappy-bird' | 'sudoku' | 'memory-match';
+export type GameId = '2048' | 'dino' | 'stickman' | 'bouncing-ball' | 'tic-tac-toe' | 'block-fall' | 'stack' | 'minesweeper' | 'snake' | 'connect-four' | 'flappy-bird' | 'sudoku' | 'memory-match' | 'typing-practice';
 export type GameCategory = 'Puzzle' | 'Strategy' | 'Classic' | 'Arcade' | 'Endless Runner' | 'Skill' | 'Memory';
 
 export interface Game {
@@ -271,6 +271,18 @@ export const GAMES: Game[] = [
       { className: 'w-16 h-16 relative' },
       React.createElement('div', { className: 'absolute top-3 left-1/2 transform -translate-x-1/2 w-9 h-9 rounded-full bg-rose-400' }),
       React.createElement('div', { className: 'absolute bottom-3 left-1/2 transform -translate-x-1/2 w-12 h-2 bg-slate-800 rounded-full opacity-75 blur-sm' })
+    ),
+  },
+  {
+    id: 'typing-practice',
+    title: 'Typing Practice',
+    description: 'Adaptive typing practice that focuses on your weak keys and combinations.',
+    status: 'available',
+    categories: ['Skill', 'Classic'],
+    visual: React.createElement(
+      'div',
+      { className: 'w-24 h-20 p-2 flex items-center justify-center' },
+      React.createElement('div', { className: 'text-4xl font-mono text-sky-400' }, '⌨️')
     ),
   },
 ];
