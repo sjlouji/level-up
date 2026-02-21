@@ -96,6 +96,9 @@ GCADE is a polished, modern hub for classic web games, rebuilt from the ground u
 
 We welcome contributions to make GCADE even better! Please read our [**contributing guidelines**](CONTRIBUTING.md) to get started.
 
+- **Issues**: Open issues using the appropriate template ([Bug report](https://github.com/sjlouji/level-up/issues/new?template=bug_report.md) or [Feature request](https://github.com/sjlouji/level-up/issues/new?template=feature_request.md)) so we can triage quickly.
+- **Pull requests**: Please follow the [PR template](.github/PULL_REQUEST_TEMPLATE.md) when opening a pull request.
+
 Huge thanks to the contributors. </br></br>
 <a href="https://github.com/sjlouji/Game-space/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=sjlouji/Game-space" />
